@@ -1,4 +1,4 @@
-# Anotações e Resumos — Introdução à Computação
+# Materiais Próprios — Fundamentos da Engenharia
 
 O que eu **produzo** estudando: resumos, mapas mentais, fichamentos e
 anotações de aula.

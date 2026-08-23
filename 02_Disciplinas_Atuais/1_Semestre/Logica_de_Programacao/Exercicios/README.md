@@ -1,4 +1,4 @@
-# Atividades e Entregas — Engenharia de Software
+# Exercícios — Lógica de Programação
 
 O que foi **entregue** e avaliado: trabalhos, listas de exercícios resolvidas e
 provas.

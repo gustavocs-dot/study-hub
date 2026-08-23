@@ -1,4 +1,4 @@
-# Anotações e Resumos — Banco de Dados I
+# Materiais Próprios — Introdução à Computação
 
 O que eu **produzo** estudando: resumos, mapas mentais, fichamentos e
 anotações de aula.

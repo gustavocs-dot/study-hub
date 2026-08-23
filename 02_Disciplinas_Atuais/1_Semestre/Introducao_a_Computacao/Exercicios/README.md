@@ -1,4 +1,4 @@
-# Atividades e Entregas — Introdução à Computação
+# Exercícios — Introdução à Computação
 
 O que foi **entregue** e avaliado: trabalhos, listas de exercícios resolvidas e
 provas.

@@ -1,4 +1,4 @@
-# Atividades e Entregas — Fundamentos da Engenharia
+# Exercícios — Banco de Dados I
 
 O que foi **entregue** e avaliado: trabalhos, listas de exercícios resolvidas e
 provas.

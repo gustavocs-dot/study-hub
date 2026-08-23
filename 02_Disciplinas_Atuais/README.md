@@ -16,7 +16,7 @@ um depósito já no semestre seguinte.
 Toda disciplina tem `Materiais_Didaticos`, com o que o professor disponibiliza.
 A partir daí:
 
-- **Disciplina teórica** acrescenta `Atividades_e_Entregas` e
-  `Anotacoes_e_Resumos`
+- **Disciplina teórica** acrescenta `Exercicios` e
+  `Materiais_Proprios`
 - **Disciplina de projeto** acrescenta as etapas de entrega, como acontece no
   Bootcamp I

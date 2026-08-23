@@ -10,8 +10,8 @@ saiba onde encontrar um arquivo, e para que eu saiba onde guardar o próximo.
    disciplina ou de um projeto.
 2. **Toda disciplina tem `Materiais_Didaticos`** — slides, apostilas e PDFs
    disponibilizados pelo professor. É material *recebido*.
-3. **Disciplina teórica acrescenta o par** `Atividades_e_Entregas`, com o que
-   foi *entregue* e avaliado, e `Anotacoes_e_Resumos`, com o que eu *produzi*
+3. **Disciplina teórica acrescenta o par** `Exercicios`, com o que
+   foi *entregue* e avaliado, e `Materiais_Proprios`, com o que eu *produzi*
    estudando.
 4. **Disciplina de projeto acrescenta as etapas.** O Bootcamp I tem três
    entregas encadeadas, e organizar por etapa reflete como o trabalho acontece.
@@ -49,8 +49,8 @@ study-hub/
 │       │   ├── 03_Entrega_Final/
 │       │   └── Materiais_Didaticos/
 │       ├── Banco_de_Dados_I/
-│       │   ├── Atividades_e_Entregas/
-│       │   ├── Anotacoes_e_Resumos/
+│       │   ├── Exercicios/
+│       │   ├── Materiais_Proprios/
 │       │   └── Materiais_Didaticos/
 │       ├── Engenharia_de_Software/
 │       ├── Fundamentos_da_Engenharia/

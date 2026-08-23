@@ -1,4 +1,4 @@
-# Anotações e Resumos — Engenharia de Software
+# Materiais Próprios — Lógica de Programação
 
 O que eu **produzo** estudando: resumos, mapas mentais, fichamentos e
 anotações de aula.
