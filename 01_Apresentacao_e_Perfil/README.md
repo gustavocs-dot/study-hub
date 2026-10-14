@@ -4,6 +4,7 @@ Documentos de apresentação profissional.
 
 ## O que fica aqui
 
+- **[Apresentação](Apresentacao.md)** — perfil pessoal, interesses e carreira, habilidades e contato
 - **Currículo** — versão atualizada, em PDF
 - **Card de contato** — cartão com e-mail, LinkedIn e GitHub
 - **Portfólio** — o documento de apresentação do Study Hub
