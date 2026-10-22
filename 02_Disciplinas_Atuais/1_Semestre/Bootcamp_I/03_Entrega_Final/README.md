@@ -4,6 +4,5 @@ Publicação do portfólio completo.
 
 ## Conteúdo
 
-- Enunciado da etapa
-- Documento produzido, nas versões editável e PDF
-- Materiais de apoio da entrega
+- Documento produzido em Pdf com os links do Google Docs e vídeo no YouTube.
+- PDF Referente ao documento do Google Docs.
